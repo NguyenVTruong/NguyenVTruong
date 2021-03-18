@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NguyenVTruong
 - 👀 I’m interested in technical.
-- 🌱 I’m currently learning Java Web. 
+- 🌱 I’m currently learning Java Web (Java core, Servlet, Spring Framework, JDBC, Hibernate, Oracle Database). 
 - 💞️ I’m looking to collaborate on anyone.
 - 📫 If you would like any further information, please don’t hesitate to contact me via email nvtruong428@gmail.com.
 

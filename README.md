@@ -7,7 +7,6 @@
 - C/C++
 - Git, Github
 ## Connect
-
 <a href= "https://github.com/NguyenVTruong" style="text-decoration: none;">
 <div style="display:inline; text-decoration: none;">
     <div style= "width: 25px; float:left">

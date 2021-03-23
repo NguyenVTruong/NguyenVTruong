@@ -8,4 +8,4 @@
 ## Connect
 
 
-<img src="https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/github-icon-18-256.png" style="width:20;"></img>
+<img src="https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/github-icon-18-256.png" width:"20;"></img>

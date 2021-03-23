@@ -1,4 +1,6 @@
 # 👋 Hi, I’m @NguyenVTruong
+## Tools & Technologies Used
+## Connect
 - 👀 I’m interested in technical.
 - 🌱 I’m currently learning Java Web (Java core, Servlet, Spring Framework, JDBC, Hibernate, Oracle Database). 
 - 💞️ I’m looking to collaborate on anyone.

@@ -1,9 +1,7 @@
 # 👋 Hi, I’m @NguyenVTruong
 ## Tools & Technologies Used
-- HTML, CSS, JS
+- HTML, CSS
 - Java
-- T24, JBASE
-- C/C++
 - Git, Github
 ## Connect
 

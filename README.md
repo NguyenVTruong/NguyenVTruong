@@ -24,3 +24,8 @@ Just tested it myself.
 <p id="foo">foo</p>
 
 <p style="color: blue">bar</p>
+
+#foo {color: red}
+<p>foo</p>
+
+<p>bar</p>

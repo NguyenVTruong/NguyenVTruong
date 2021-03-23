@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @NguyenVTruong
-My name is Truong.
+My name is Truong. I'm trying to become a backend developer. 
 ## 🛠️Tools & Technologies Used
 - HTML, CSS
 - Java

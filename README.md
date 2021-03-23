@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @NguyenVTruong
-My name is Truong. I'm trying to become a backend developer. In addition, I like electronics engineering and embedded programming.
+My name is Truong. I'm trying to become a backend developer. Currently, I have some knowledge of HTML/CSS and Java basic. In addition, I like electronics engineering and embedded programming. 
 ## 🛠️Tools & Technologies Used
 - HTML, CSS
 - Java

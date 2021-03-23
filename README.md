@@ -12,7 +12,7 @@
 ## Connect
 
 
-<a href= "https://github.com/NguyenVTruong"><img align="left" style="float: left" src="https://www.clipartmax.com/png/middle/77-771645_linkedin-github-facebook-dribbble-square-github-icon.png" width= "40;"></img></a>
+<a href= "https://github.com/NguyenVTruong"><img align="left" style="float: left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWChAbV_2DPXuHh4PjS5TCz5PQnA7lF__kLw&usqp=CAU" width= "40;"></img></a>
 
 <a href= "https://www.linkedin.com/in/truong-nguyen-609831163/"><img align="left" style="float: left" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1616487920~hmac=7eeb9073a011e0d583f7dbae9a00e057" width= "40;"></img></a>
 

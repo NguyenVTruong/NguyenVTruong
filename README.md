@@ -7,7 +7,7 @@
 - Git, Github
 ## Connect
 <a href= "https://github.com/NguyenVTruong" style="text-decoration: none;">
-<div style="display:inline; text-decoration: none;" width: "40";>
+<div style="display:inline; text-decoration: none;" width="200">
     <div style= "width: 25px; float:left">
         <img src="https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/github-icon-18-256.png" style="width:25px;"></img>
     </div>

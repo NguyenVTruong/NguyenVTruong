@@ -12,7 +12,7 @@
 ## Connect
 
 
-<a href= "https://google.com"><img style="float: left" src="https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/github-icon-18-256.png" width= "40;"></img><p> Github</p></a>
+<a href= "https://google.com"><img align="left" style="float: left" src="https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/github-icon-18-256.png" width= "40;"></img><p> Github</p></a>
 
 
 Just tested it myself.

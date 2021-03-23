@@ -6,6 +6,7 @@
 - C/C++
 - Git, Github
 ## Connect
+
 <a href= "https://github.com/NguyenVTruong" style="text-decoration: none;">
 <div style="display:inline; text-decoration: none;" width="200">
     <div style= "width: 25px; float:left">
@@ -16,6 +17,7 @@
     </div>
 </div>
 </a>
+
 <a href= "https://www.linkedin.com/in/truong-nguyen-609831163/" style="text-decoration: none;">
 <div style="display:inline; text-decoration: none;">
     <div style= "width: 25px; float:left">
@@ -26,6 +28,7 @@
     </div>
 </div>
 </a>
+
 <a href= "https://twitter.com/_Truong_Nguyen_" style="text-decoration: none;">
 <div style="display:inline; text-decoration: none;">
     <div style= "width: 25px; float:left">

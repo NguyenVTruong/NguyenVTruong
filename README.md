@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @NguyenVTruong
 ## Tools & Technologies Used
-- HTML, CSS, JS, Java, JSP, Servlet, JavaSpring boot, python
+- HTML, CSS, JS, Java
 ## Connect
 GITHUB, GMAIL, LINKEDIN

@@ -8,7 +8,7 @@ My name is Truong. I'm trying to become a backend developer. Currently, I have s
 ## 🔗Connect
 
 </br>
-<a href= "https://github.com/NguyenVTruong"><img align="left" style="float: left" src="https://cdn4.iconfinder.com/data/icons/bettericons/354/github-square-512.png" height= "50;" width= "40;"></img></a>
+<a href= "https://github.com/NguyenVTruong"><img align="left" style="float: left" src="https://cdn4.iconfinder.com/data/icons/bettericons/354/github-square-512.png" width= "40;"></img></a>
 
 <a href= "https://www.linkedin.com/in/truong-nguyen-609831163/"><img align="left" style="float: left" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1616487920~hmac=7eeb9073a011e0d583f7dbae9a00e057" width= "40;"></img></a>
 

@@ -7,17 +7,8 @@
 - Git, Github
 ## Connect
 
-<a href= "https://github.com/NguyenVTruong" style="text-decoration: none;">
-<div style="display:inline; text-decoration: none;" width="200">
-    <div style= "width: 25px; float:left">
-        <img src="https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/github-icon-18-256.png" style="width:25px;"></img>
-    </div>
-    <div style= "width: 80px; text-align: center; color: white;">
-        <p>Github</p>
-    </div>
-</div>
-</a>
 
+<img src="https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/github-icon-18-256.png" style="width:20;"></img>
 <a href= "https://www.linkedin.com/in/truong-nguyen-609831163/" style="text-decoration: none;">
 <div style="display:inline; text-decoration: none;">
     <div style= "width: 25px; float:left">

@@ -6,7 +6,7 @@
 - C/C++
 - Git, Github
 ## Connect
-<a href= "https://github.com/NguyenVTruong" style="text-decoration: none; width: 50px">
+<a href= "https://github.com/NguyenVTruong" style="text-decoration: none; width: 50px; height: 50px">
 <div style="display:inline; text-decoration: none;">
     <div style= "width: 25px; float:left">
         <img src="https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/github-icon-18-256.png" style="width:25px;"></img>

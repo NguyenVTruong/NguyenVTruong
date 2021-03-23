@@ -1,4 +1,5 @@
 # 👋 Hi, I’m @NguyenVTruong
+My name is Truong.
 ## 🛠️Tools & Technologies Used
 - HTML, CSS
 - Java

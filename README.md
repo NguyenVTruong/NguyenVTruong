@@ -1,7 +1,3 @@
-<style>
-  h1 {color:red;}
-  p {color:blue;}
-</style>
 # 👋 Hi, I’m @NguyenVTruong
 ## Tools & Technologies Used
 - HTML, CSS, JS

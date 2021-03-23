@@ -4,7 +4,7 @@ My name is Truong. I'm trying to become a backend developer. Currently, I have s
 - HTML, CSS
 - Java
 - Git, Github
-## Project
+## 💻Project
 ## 🔗Connect
 
 <a href= "https://github.com/NguyenVTruong"><img align="left" style="float: left" src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/github-square-512.png" width= "40;"></img></a>

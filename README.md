@@ -3,6 +3,7 @@ My name is Truong. I'm trying to become a backend developer. Currently, I have s
 ## 🛠️Tools & Technologies Used
 - HTML, CSS
 - Java
+- Oracle database
 - Git, Github
 ## 💻Project
 ## 🔗Connect

@@ -5,7 +5,6 @@ My name is Truong. I'm trying to become a backend developer. Currently, I have s
 - Java
 - SQL
 - Git, Github
-## 💻Project
 ## 🔗Connect
 
 <a href= "https://www.linkedin.com/in/truong-nguyen-609831163/"><img align="left" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1616487920~hmac=7eeb9073a011e0d583f7dbae9a00e057" width= "40;"></img></a>

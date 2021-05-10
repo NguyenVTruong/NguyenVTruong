@@ -12,7 +12,7 @@ My name is Truong. I'm trying to become a backend developer. Currently, I have s
 <a href= "https://twitter.com/_Truong_Nguyen_"><img align="left" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579584-yumminkysocialmedia12_83085.png" width= "40;"></img></a>
 
 <a href= "https://facebook.com/truongnv.fb"><img align="left" src="https://www.flaticon.com/svg/vstatic/svg/733/733547.svg?token=exp=1619245686~hmac=35bac4b7c1c09e9f4e5c864c1468c39f" width= "40;"></img></a>
-
+<br />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenVTruong)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenVTruong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

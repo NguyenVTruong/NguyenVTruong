@@ -17,6 +17,6 @@ My name is Truong. I'm trying to become a backend developer. Currently, I have s
 
 <a href= "https://facebook.com/truongnv.fb"><img align="left" src="https://www.flaticon.com/svg/vstatic/svg/733/733547.svg?token=exp=1619245686~hmac=35bac4b7c1c09e9f4e5c864c1468c39f" width= "40;"></img></a>
 
-<a href= "https://join.skype.com/invite/xWdvVLh1cSWl"><img align="left" src="https://seeklogo.com/images/S/skype-icon-logo-62E333BBBA-seeklogo.com.png" width= "40;"></img></a>
+<a href= "https://join.skype.com/invite/xWdvVLh1cSWl"><img align="left" src="https://img.icons8.com/cute-clipart/344/skype.png" width= "40;"></img></a>
 
 

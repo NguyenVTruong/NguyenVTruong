@@ -11,7 +11,7 @@ My name is Truong. I'm trying to become a backend developer. Currently, I have s
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenVTruong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## 🔗Connect
 
-<a href= "https://www.linkedin.com/in/truong-nguyen-609831163/"><img align="left" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1616487920~hmac=7eeb9073a011e0d583f7dbae9a00e057" width= "40;"></img></a>
+<a href= "https://www.linkedin.com/in/truong-nguyen-609831163/"><img align="left" src="https://img.icons8.com/cute-clipart/344/linkedin.png" width= "40;"></img></a>
 
 <a href= "https://fb.com/truongnv.fb"><img align="left" src="https://img.icons8.com/cute-clipart/344/facebook-new.png" width= "40;"></img></a>
 

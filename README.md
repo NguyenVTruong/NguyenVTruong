@@ -2,8 +2,8 @@
 My name is Truong. I'm trying to become a backend developer. Currently, I have some knowledge of HTML/CSS, Java basic and Sql language. Next time, I will learn Java Servlet, Spring framework and JavaScript. In addition, I like electronics engineering and embedded programming. I want to design electronics circuit for my life. 
 ## 🛠️Tools & Technologies Used
 - HTML, CSS, JS, ReactJS
-- Java
-- SQL
+- Java, NodeJS
+- SQL, MongoDB
 - Git, Github
 
 My GitHub stats (powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)):

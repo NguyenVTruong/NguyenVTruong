@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @NguyenVTruong
 ## 🛠️Tools & Technologies Used
-- HTML, CSS, JS, ReactJS
-- Java, NodeJS
-- SQL, MongoDB
+- HTML, CSS, JS
+- Java, Python3
+- SQL
 - Git, Github
 
 My GitHub stats (powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)):

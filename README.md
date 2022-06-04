@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @NguyenVTruong
 ## 🛠️Tools & Technologies Used
 - HTML, CSS, JS, Angular
-- Java
+- Java, JavaSpring Boot
 - SQL, MongoDb
 - Git, Github
 

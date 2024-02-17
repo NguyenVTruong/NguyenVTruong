@@ -16,4 +16,6 @@ My GitHub stats (powered by [github-readme-stats](https://github.com/anuraghazra
 
 <a href= "https://join.skype.com/invite/xWdvVLh1cSWl"><img align="left" src="https://img.icons8.com/cute-clipart/344/skype.png" width= "40;"></img></a>
 
+<a href= "https://join.skype.com/invite/xWdvVLh1cSWl"><img align="left" src="https://img.icons8.com/cute-clipart/344/skype.png" width= "40;"></img></a>
+
 

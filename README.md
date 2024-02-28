@@ -11,6 +11,7 @@ My GitHub stats (powered by [github-readme-stats](https://github.com/anuraghazra
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenVTruong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Curriculum Vitae
+https://github.com/NguyenVTruong/NguyenVTruong/blob/main/CV_NguyenVanTruong.pdf
 ## 🔗Connect
 
 <a href= "https://www.linkedin.com/in/truong-nguyen-609831163/"><img align="left" src="https://img.icons8.com/cute-clipart/344/linkedin.png" width= "40;"></img></a>

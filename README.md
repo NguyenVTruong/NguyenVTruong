@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @NguyenVTruong
 ## 🛠️Tools & Technologies Used
 - HTML, CSS, JS, Angular
-- Java, JavaSpring Boot
-- SQL, MongoDb
+- Java, JavaSpring
+- SQL, Oracle
 - Git, Github
 
 My GitHub stats (powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)):

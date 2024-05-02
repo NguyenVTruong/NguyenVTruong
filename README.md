@@ -16,6 +16,6 @@ https://github.com/NguyenVTruong/NguyenVTruong/blob/main/CV_NguyenVanTruong.pdf
 
 <a href= "https://www.linkedin.com/in/truong-nguyen-609831163/"><img align="left" src="https://img.icons8.com/cute-clipart/344/linkedin.png" width= "40;"></img></a>
 
-<a href= "https://join.skype.com/invite/xWdvVLh1cSWl"><img align="left" src="[https://img.icons8.com/cute-clipart/344/skype.png](https://icons8.com/icon/63306/telegram-app)" width= "40;"></img></a>
+<a href= "https://join.skype.com/invite/xWdvVLh1cSWl"><img align="left" src="https://img.icons8.com/color/48/telegram-app--v1.png" width= "40;"></img></a>
 
 
